@@ -81,8 +81,6 @@ https://github.com/user-attachments/assets/191ac0b7-f8db-4f29-9997-6b9bcf323c1f
 
 **Prerequisites:** Java JDK installed on your machine
 
-> ⚠️ **Note:** The word list file path is currently hardcoded (`C:\Users\admin\Desktop\test.txt`). Before running the game yourself, update the `filePath` variable in `Hangman.java` to point to your own text file containing a list of words (one word per line).
-
 ```bash
 # 1. Clone the repository
 git clone https://github.com/<your-username>/<repo-name>.git
@@ -107,7 +105,7 @@ java Hangman
 
 ## 🤝 Contributing
 
-This is a learning project — suggestions and feedback are always welcome! Feel free to open an issue or fork the repo.
+This is a learning project suggestions and feedback are always welcome! Feel free to open an issue or fork the repo.
 
 ## 📄 License
 
